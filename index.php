@@ -12,6 +12,7 @@
   h1{
     position: absolute;
     top:0;
+    
   }
     form{
         margin:10%;
@@ -51,7 +52,7 @@
 </style>
 
 <body>
-    <form action="embedsol.php" method="post"> 
+    <form action="index.php" method="post"> 
         Department Name
         <input type="text" name="name" id="name" required>
         <br> <br>
